@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Alaa Hella
-- 👀 I’m interested in machinelearning and deeplearning 
-- 
+Hi 👋, I'm Alaa Hella 
+AI Engineer 
 
-<!---
-alaahella/alaahella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+    📫 How to reach me alaahella7@gmail.com
+
+Languages and Tools:
+
+c cplus git linux mongodb mysql pandas postgresql  python scikit_learn seaborn tensorflow 
